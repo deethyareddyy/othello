@@ -1,4 +1,3 @@
-# othello-bot
 <h1 align="center">Othello Bot</h1>
 
 <p>Contains an AI player for Othello as well as a graphical use interface for the Othello game.</p>
@@ -50,27 +49,8 @@ For running the server file on you can use this command.
 
 ## Built With
 
-- JavaScript
-- Node
-- NPM
-- Webpack
-- HTML
-- CSS
-
-## Future Updates
-
-- [ ] Reliable Storage
+- Python
 
 ## Author
 
-**Rohit Jain**
-
-- [Profile](https://github.com/rohit19060 "Rohit jain")
-- [Email](mailto:rohitjain19060@gmail.com?subject=Hi "Hi!")
-- [Website](https://kingtechnologies.in "Welcome")
-
-## 🤝 Support
-
-Contributions, issues, and feature requests are welcome!
-
-Give a ⭐️ if you like this project!
+**Deethya Reddy Yelamkonda**
