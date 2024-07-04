@@ -1,6 +1,6 @@
 <h1 align="center">Othello Bot</h1>
 
-<p>Contains an AI player for Othello as well as a graphical use interface for the Othello game.</p>
+<p>Contains various files that build an Othello game and an AI bot<br>otto.py references the AI bot</p>
 
 ## Built With
 
@@ -9,3 +9,7 @@
 ## Author
 
 **Deethya Reddy Yelamkonda**
+
+## Contributor
+
+**Daniel Bauer**
