@@ -1,8 +1,7 @@
 # othello-bot
-# Contains an AI player for Othello as well as a graphical use interface for the Othello game.
 <h1 align="center"><project-name></h1>
 
-<p align="center"><project-description></p>
+<p align="center"><"Contains an AI player for Othello as well as a graphical use interface for the Othello game."></p>
 
 ## Links
 
